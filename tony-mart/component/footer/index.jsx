@@ -12,7 +12,7 @@ function Footer() {
         </div>
         <div>
           <strong>Phone:</strong><br />
-          +234 810 123 4567
+          +234 813 250 0759
         </div>
         <div>
           <strong>Email:</strong><br />
