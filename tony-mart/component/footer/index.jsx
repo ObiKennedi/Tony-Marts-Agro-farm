@@ -8,7 +8,7 @@ function Footer() {
       <div className="footer-contact">
         <div>
           <strong>Address:</strong><br />
-          Awo-Omamma, Oru-East L.G.A., Imo State, South-East of Nigeria.
+          Km 23 Owerri/Onitsha road Awo-Omamma in Oru East LGA of Imo State
         </div>
         <div>
           <strong>Phone:</strong><br />
@@ -16,7 +16,7 @@ function Footer() {
         </div>
         <div>
           <strong>Email:</strong><br />
-          info@tonymartsagrofarms.com
+          info@tony-marts-agro-farm.com.ng
         </div>
         <div>
           <strong>Working Hours:</strong><br />

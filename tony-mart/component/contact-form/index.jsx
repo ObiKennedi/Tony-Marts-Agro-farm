@@ -12,7 +12,7 @@ function ContactForm() {
         setLoading(true);
 
         emailjs
-            .sendForm("service_wyxbk7f", "template_32pjlri", form.current, "4r8q7BAAPKbl8FykG")
+            .sendForm("service_eggrzip", "template_j8en4vl", form.current, "YH8Nhrpfa9HqK4kb_")
             .then(
                 () => {
                     setSent(true);
