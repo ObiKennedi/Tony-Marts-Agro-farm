@@ -7,6 +7,7 @@ import About from '../component/about-us'
 import Services from '../component/services';
 import ContactForm from '../component/contact-form';
 import Footer from '../component/footer';
+import FoundersSection from '../component/founders';
 
 function App() {
   return (
@@ -15,6 +16,7 @@ function App() {
       <main>
         <HeroSection/>
         <About/>
+        <FoundersSection/>
         <Services/>
         <ContactForm/>
       </main>

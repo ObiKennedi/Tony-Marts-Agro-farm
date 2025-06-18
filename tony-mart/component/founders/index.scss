@@ -1,0 +1,53 @@
+.founders-section {
+    padding: 4rem 1.5rem;
+    background: #fff;
+    text-align: center;
+
+    h2 {
+        font-size: 2rem;
+        color: #c05c00;
+        margin-bottom: 2rem;
+    }
+
+    .founder-grid {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 2rem;
+    }
+
+    .founder-card {
+        background: #fffaf2;
+        padding: 1.5rem;
+        border-radius: 12px;
+        box-shadow: 0 4px 10px rgba(0, 0, 0, 0.05);
+        max-width: 300px;
+
+        img {
+            width: 100%;
+            height: 300px;
+            object-fit: cover;
+            border-radius: 8px;
+            margin-bottom: 1rem;
+        }
+
+        h3 {
+            font-size: 1.2rem;
+            margin-bottom: 0.25rem;
+            color: #222;
+        }
+
+        p {
+            font-size: 0.95rem;
+            color: #666;
+            margin-bottom: 0.5rem;
+        }
+
+        small {
+            font-size: 0.85rem;
+            color: #444;
+            display: block;
+            margin-top: 0.5rem;
+        }
+    }
+}
